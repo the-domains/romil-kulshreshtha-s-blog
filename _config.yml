@@ -1,0 +1,28 @@
+name: "Romil Kulshreshtha's Blog"
+favicon: null
+layout_spectrum: 0.9917893237434328
+typography_spectrum: 0.7210148272570223
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.2612130520865321
+  lightness: 0.1077444814145565
+  saturation: 0.8480595306027681
+  rhythmicContrast: 0.5021130300592631
+purpose: []
